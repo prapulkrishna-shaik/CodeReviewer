@@ -1,4 +1,5 @@
-# 🧠 CodeCritique
+# 🧠 CodeReviewer
+
 
 CodeCritique is an AI-powered code review tool that helps developers of all levels write cleaner, more efficient, and industry-standard code. Whether you're a student, solo dev, or part of a team, CodeCritique reviews your code and provides actionable suggestions instantly.
 
