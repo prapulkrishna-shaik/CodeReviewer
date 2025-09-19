@@ -74,5 +74,6 @@ Open a pull request
 MIT
 
 🙌 Acknowledgements
-Built with ❤️ by Soumya Tanna
+Built with ❤️ by Prapul shaik
+
 
